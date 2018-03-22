@@ -1,0 +1,48 @@
+{
+  "title": "basic test",
+  "entries": [
+    {
+      "guid": "TEST1",
+      "peg$contentClassification": "",
+      "media": [
+        {
+          "title": "1-1 media without censorship",
+          "guid": "1-1-MFR"
+        }
+      ]
+    },
+    {
+      "guid": "TEST2",
+      "media": [
+        {
+          "title": "2-1 media without censorship",
+          "guid": "2-1-MFR"
+        }
+      ]
+    },
+    {
+      "guid": "TEST3",
+      "peg$contentClassification": "Censored",
+      "media": [
+        {
+          "title": "3-1 media without censorship",
+          "guid": "3-1-MFR"
+        },
+        {
+          "title": "3-1 media with censorship",
+          "guid": "3-2-C"
+        }
+      ]
+    },
+    {
+      "guid": "TEST4",
+      "peg$contentClassification": "Uncensored",
+      "media": [
+        {
+          "title": "4-1 media without censorship",
+          "guid": "4-1-MFR"
+        }
+      ]
+    }
+  ]
+}

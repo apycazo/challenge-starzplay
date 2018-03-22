@@ -1,0 +1,8 @@
+
+spring.application.name: challenge-starzplay
+
+app:
+  mapping: /media
+  allowedFilters:
+    - censoring
+  catalogURL: https://de8a7d97-b45e-401b-b30e-39ae7b922405.mock.pstmn.io/api/v1.0/mediaCatalog/titles/movies
