@@ -49,3 +49,8 @@ For example, the instructions for Eclipse: https://projectlombok.org/setup/eclip
 
 In most cases, it is only required to download the plugin, double click on it and point the installer to the
 IDE. IDEA has a plugin that can be downloaded directly from the IDE plugin manager. 
+
+## Tests
+
+Two test suites are provided, one to test the service, and another to test the rest controller. Both suites
+use a simple file named 'test-basic.json' with reduced data.
