@@ -1,5 +1,7 @@
 # Challenge / Starzplay
 
+[![Build Status](https://travis-ci.org/apycazo/challenge-starzplay.svg?branch=master)](https://travis-ci.org/apycazo/challenge-starzplay)
+
 ## Building the service
 
 From the command line, using maven, type:
